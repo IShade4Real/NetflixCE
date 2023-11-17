@@ -12,6 +12,11 @@ Once downloaded, join the game link below and enter the game id you wish to join
 ## Built-in Scripts
 
 To load infinite yield, run _G.IY() on the internal exec and click execute. Only a few scripts have been added though I do plan to add more.
+To load Dex Explorer, run _G.dex() on the internal executor and click execute.
+to load Auto Parry, run _G.autoparry on the internal exec and click execute. (used for Blade Ball)
+to load Lumber Tycoon money farm, run _G.lt()
+to load Prison Life Admin Script, run _G.prisonlife()
+to load Kohls Admin House script, run _G.CMDY()
 
 (The web-client works but isn't 100% functional, you're experience may be different but if you do experience any problems use the Microsoft store version, bypasses hyperion so no need for downgrading) 
 
