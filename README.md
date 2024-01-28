@@ -48,7 +48,8 @@ to load Kohls Admin House script, run _G.CMDY()
 ## Credits
 
 For privacy reasons i cant say who am i. Just remember me as "Shade"
-I am not the original creator of this exploit. All credits go to [this guy.](https://github.com/IShade4ReaI) **He is banned now. Rest in peace.**
+I am not the original creator of this exploit. All credits go to [Jotunn.](https://github.com/IShade4ReaI) **He is banned now. Rest in peace.**
+I am not Jotunn. I only saved NCE and re-uploadded it after it was deleted from github due to Rune. I made this account ONLY for the purpose of re-uploading NCE.
 
 # Q/A
 
