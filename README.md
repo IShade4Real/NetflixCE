@@ -5,11 +5,16 @@ A modified cheat engine created exclusively for the purpose of injecting into Ro
 ## Information after the NCE Patch
 
 So... im shocked to see the NCE still works after the patch. although the baseplate was banned, i found a way to bypass it.
+
 Im gonna actively work on this page from now on. (It would be nice if somebody posts about NCE still working on reddit.com/r/robloxhackers.)
+
 Surprisingly, Roblox tried to fix this but miserably failed and made it only worse. Now Infinite Yield works even better and sometimes may run commands that you couldn't run before.
+
 For now the only ways to exploit is Mobile or NCE. The other exploits are honeypots, the only exploits you can trust is fluxus (mobile), NCE and RCM (RC7).
+
 Do NOT take the risk. Only use Mobile or NCE to exploit currently. Check if new exploits are valid and arent any scam.
-Alright, heres the tutorial: (yes its in the Script Execution)
+
+Alright, heres the [tutorial](https://github.com/IShade4Real/NetflixCE/?tab=readme-ov-file#script-execution).
 
 ## Script Execution
 
