@@ -48,7 +48,9 @@ to load Kohls Admin House script, run _G.CMDY()
 ## Credits
 
 For privacy reasons i cant say who am i. Just remember me as "Shade"
+
 I am not the original creator of this exploit. All credits go to [Jotunn.](https://github.com/IShade4ReaI) **He is banned now. Rest in peace.**
+
 I am not Jotunn. I only saved NCE and re-uploadded it after it was deleted from github due to Rune. I made this account ONLY for the purpose of re-uploading NCE.
 
 # Q/A
@@ -60,7 +62,7 @@ A: No, unless you will use the Web version of Roblox.
 
 Q: Are you the original creator of NCE?
 
-A: No. I cant say who am i, And no. Im not IShade4ReaI alternative account.
+A: No. I also cant say who am i, And no. Im not IShade4ReaI alternative account.
 
 
 Q: Help! I met an error ... And i dont know what to do!
