@@ -80,6 +80,8 @@ A: Check if the error is in Troubleshooting page. Theres an fix according to the
 
 **Error you get:**
 
+**Roblox version (UWP or Web):**
+
 **Screenshot:**
 
 **How to reproduce the error (step by step):**
