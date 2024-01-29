@@ -70,8 +70,7 @@ A: Check if the error is in Troubleshooting page. Theres an fix according to the
 
 ## Unlisted Errors
 
-**If you encounter an error NOT listed in the Troubleshooting page, please report it on the robloxhackers subreddit. Include the following information:**
-
+**If you encounter an error NOT listed in the Troubleshooting page, please report it in the Issues page. Include the following information:**
 
 **Your Windows version:**
 
