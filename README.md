@@ -8,19 +8,23 @@ Most of you already know that NCE was discontinued by Jotunn, however it still w
 
 Im looking forward to upgrade it and possibly make it tool-less.
 
+## Information after Patch
+
+**NCE IS NOT PATCHED!**
+
+It turns out NCE is not patched. Probably Roblox failed to patch it or it was just a false warning.
+
 ## How many ways to exploit there are?
 
 Currently 3. Mac, NCE and Mobile. However hacking on Mobile is hard because theres a lot of scammers and plus its guranteed that Fluxus n similar exploits will be down for a few hours.
 
 Mac and NCE is safer, due to Mac not having Byfron and NCE bypassing it. Not only NCE bypasses Byfron, but it is also undetected currently. (ill update this message if i get banned)
 
-## Tutorial
+# Tutorial
 
 First of all, Download NCE itself in the [releases](https://github.com/IShade4Real/NetflixCE/releases) tab.
 
 Once NCE was downloaded, join the game link below and enter the game id you wish to join. Once teleported, open Netflix and a custom UI should pop up. Click Inject (Make sure a tool is located in your backpack) and wait for the lua engine to finish scanning memory addresses. Once the local script has been found, it should output "Injecting Successful!".
-
-**PLEASE NOTE, THIS CURRENTLY ONLY WORKS ON THE UWP VERSION. ITS NOT GONNA WORK ON THE WEB VERSION!!!**
 
 **DO NOT USE YOUR MAIN ACCOUNT. THERES A RISK OF GETTING BANNED IF YOU EXPOSE YOURSELF!!!**
  
