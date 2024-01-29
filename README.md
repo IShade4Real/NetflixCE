@@ -4,26 +4,27 @@ A modified cheat engine created exclusively for the purpose of injecting into Ro
 
 ## Information after NCE was Discontinued
 
-A bit late there, but whatever.
+Most of you already know that NCE was discontinued by Jotunn, however it still works, even after the patch.
 
-Most of you already know that NCE was discontinued by Jotunn,  however it is a GREAT exploit even after the patch. Im looking forward to start upgrading it and possibly make it tool-less.
+Im looking forward to upgrade it and possibly make it tool-less.
 
-Obviously this will take a while, but everything takes time to work.
+## How many ways to exploit there are?
+
+Currently 3. Mac, NCE and Mobile. However hacking on Mobile is hard because theres a lot of scammers and plus its guranteed that Fluxus n similar exploits will be down for a few hours.
+
+Mac and NCE is safer, due to Mac not having Byfron and NCE bypassing it. Not only NCE bypasses Byfron, but it is also undetected currently. (ill update this message if i get banned)
 
 ## Tutorial
 
-Once downloaded, join the game link below and enter the game id you wish to join. Once teleported, open Netflix and a custom UI should pop up. Click Inject (Make sure a tool is located in your backpack) and wait for the lua engine to finish scanning memory addresses. Once the local script has been found, it should output "Inject Script: (Memory Address)".
+First of all, Download NCE itself in the [releases](https://github.com/IShade4Real/NetflixCE/releases) tab.
+
+Once NCE was downloaded, join the game link below and enter the game id you wish to join. Once teleported, open Netflix and a custom UI should pop up. Click Inject (Make sure a tool is located in your backpack) and wait for the lua engine to finish scanning memory addresses. Once the local script has been found, it should output "Injecting Successful!".
 
 **PLEASE NOTE, THIS CURRENTLY ONLY WORKS ON THE UWP VERSION. ITS NOT GONNA WORK ON THE WEB VERSION!!!**
+
 **DO NOT USE YOUR MAIN ACCOUNT. THERES A RISK OF GETTING BANNED IF YOU EXPOSE YOURSELF!!!**
-
-(You dont need the Job ID, it is made purely for looks.)
  
-[Baseplate game](https://www.roblox.com/games/15401559973/RC1)
-
-## Versions
-
-V 2.0
+[Baseplate game](https://www.roblox.com/games/16161951274/Baseplate)
 
 ## Built-in Scripts
 
@@ -41,21 +42,21 @@ to load Kohls Admin House script, run _G.CMDY()
 
 (The uwp-client works but isn't 100% functional, your experience may be different but if you do experience any problems, look into the Troubleshooting page. If you have an error that is NOT listed, check the [Unlisted Errors page](https://github.com/IShade4Real/NetflixCE/?tab=readme-ov-file#unlisted-errors)
 
-(If crashes occur frequently, open netflix via the netflixprocesshandler.bat file)
-
 ## Credits
 
 For privacy reasons i cant say who am i. Just remember me as "Shade"
 
-I am not the original creator of this exploit. All credits go to [Jotunn.](https://github.com/IShade4ReaI) **He is banned now. Rest in peace.**
+I am not the original creator of this exploit. All credits go to Jotunn.
 
 I am not Jotunn. I only saved NCE and re-uploadded it after it was deleted from github due to Rune. I made this account ONLY for the purpose of re-uploading NCE.
+
+Unfortunately NCE was discontinued, but ill still keep it updated till its patched.
 
 # Q/A
 
 Q: Will this ban me from roblox?
 
-A: No, unless you will use the Web version of Roblox.
+A: No, unless you use the Web version of Roblox.
 
 
 Q: Are you the original creator of NCE?
