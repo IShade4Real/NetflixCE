@@ -2,21 +2,15 @@
 
 A modified cheat engine created exclusively for the purpose of injecting into Roblox, a reformed tool that bypasses previous Cheat Engine (CE) detections, enabling successful script injection. Please note that CE is limited to thread identity 2 as it runs via localscripts, but it can handle substantial scripts such as Infinite Yield. An internal executor is also provided to enhance your exploiting experience. It's important to clarify that a tool located in the player's backpack is required for injection. This is because the script runs through the LocalScript parented to the tool.
 
-## Information after the NCE Patch
+## Information after NCE was Discontinued
 
-So... im shocked to see the NCE still works after the patch. although the baseplate was banned, i found a way to bypass it.
+A bit late there, but whatever.
 
-Im gonna actively work on this page from now on. (It would be nice if somebody posts about NCE still working on reddit.com/r/robloxhackers.)
+Most of you already know that NCE was discontinued by Jotunn,  however it is a GREAT exploit even after the patch. Im looking forward to start upgrading it and possibly make it tool-less.
 
-Surprisingly, Roblox tried to fix this but miserably failed and made it only worse. Now Infinite Yield works even better and sometimes may run commands that you couldn't run before.
+Obviously this will take a while, but everything takes time to work.
 
-For now the only ways to exploit is Mobile or NCE. The other exploits are honeypots, the only exploits you can trust is fluxus (mobile), NCE and RCM (RC7).
-
-Do NOT take the risk. Only use Mobile or NCE to exploit currently. Check if new exploits are valid and arent any scam.
-
-Alright, heres the [tutorial](https://github.com/IShade4Real/NetflixCE/?tab=readme-ov-file#script-execution).
-
-## Script Execution
+## Tutorial
 
 Once downloaded, join the game link below and enter the game id you wish to join. Once teleported, open Netflix and a custom UI should pop up. Click Inject (Make sure a tool is located in your backpack) and wait for the lua engine to finish scanning memory addresses. Once the local script has been found, it should output "Inject Script: (Memory Address)".
 
@@ -26,6 +20,10 @@ Once downloaded, join the game link below and enter the game id you wish to join
 (You dont need the Job ID, it is made purely for looks.)
  
 [Baseplate game](https://www.roblox.com/games/15401559973/RC1)
+
+## Versions
+
+V 2.0
 
 ## Built-in Scripts
 
