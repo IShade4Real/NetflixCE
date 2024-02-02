@@ -2,23 +2,9 @@
 
 A modified cheat engine created exclusively for the purpose of injecting into Roblox, a reformed tool that bypasses previous Cheat Engine (CE) detections, enabling successful script injection. Please note that CE is limited to thread identity 2 as it runs via localscripts, but it can handle substantial scripts such as Infinite Yield. An internal executor is also provided to enhance your exploiting experience. It's important to clarify that a tool located in the player's backpack is required for injection. This is because the script runs through the LocalScript parented to the tool.
 
-## Information after NCE was Discontinued
-
-Most of you already know that NCE was discontinued by Jotunn, however it still works, even after the patch.
-
-Im looking forward to upgrade it and possibly make it tool-less.
-
 ## Information after Patch
 
-**NCE IS NOT PATCHED!**
-
-It turns out NCE is not patched. Probably Roblox failed to patch it or it was just a false warning.
-
-## How many ways to exploit there are?
-
-Currently 3. Mac, NCE and Mobile. However hacking on Mobile is hard because theres a lot of scammers and plus its guranteed that Fluxus n similar exploits will be down for a few hours.
-
-Mac and NCE is safer, due to Mac not having Byfron and NCE bypassing it. Not only NCE bypasses Byfron, but it is also undetected currently. (ill update this message if i get banned)
+**Every single CE cheat is patched. The only way to exploit on roblox is Mobile or Mac.**
 
 # Tutorial
 
