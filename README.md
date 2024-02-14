@@ -2,10 +2,31 @@
 
 A modified cheat engine created exclusively for the purpose of injecting into Roblox, a reformed tool that bypasses previous Cheat Engine (CE) detections, enabling successful script injection. Please note that CE is limited to thread identity 2 as it runs via localscripts, but it can handle substantial scripts such as Infinite Yield. An internal executor is also provided to enhance your exploiting experience. It's important to clarify that a tool located in the player's backpack is required for injection. This is because the script runs through the LocalScript parented to the tool.
 
-## Information after Patch
+## Byfron 14.02.2024
 
-**Every single CE cheat is patched. The only way to exploit on roblox is Mobile or Mac.**
+**Roblox has patched the ability for CE to use WriteByte and ReadBytes which is how NCE works. All CE exploits are currently dead and wont work. (This may be the end of CE exploiting because its super hard to bypass Byfron)**
 
+## How do i exploit after February 14th?
+
+Download an Emulator and use Mobile exploits there. I will list some of them:
+### Emulators
+[LDPlayer](https://www.ldplayer.net/versions)
+
+[MuMuPlayer](https://www.mumuplayer.com/index.html)
+
+[Bluestacks](https://www.bluestacks.com/bluestacks-5.html)
+### Exploits
+[Fluxus](https://fluxteam.net) -- ${{\color{green}{\textsf{  Safest\ And\ Trusted\}}}}\$
+
+[Valyse](https://valyse.best/) -- ${{\color{cyan}{\textsf{  New\}}}}\$
+
+[Delta](https://deltaexploits.net) -- ${{\color{green}{\textsf{  Safe\ And\ Trusted\}}}}\$
+
+[Hydrogen](https://hydrogen.sh) -- ${{\color{red}{\textsf{  MAY\ BE\ MALWARE!\ USE\ AT\ YOUR\ OWN\ RISK\}}}}\$
+
+[Codex](https://www.codex.lol) -- ${{\color{red}{\textsf{  MAY\ BE\ MALWARE!\ USE\ AT\ YOUR\ OWN\ RISK\}}}}\$
+
+[Delta Windows (PAID)](https://deltaexploits.mysellix.io) -- ${{\color{aqua}{\textsf{  NEW\ AND\ EXTERNAL!\}}}}\$
 # Tutorial
 
 First of all, Download NCE itself in the [releases](https://github.com/IShade4Real/NetflixCE/releases) tab.
