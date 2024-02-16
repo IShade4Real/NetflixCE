@@ -20,13 +20,28 @@ Download an Emulator and use Mobile exploits there. I will list some of them:
 
 [Valyse](https://valyse.best/) -- ${{\color{cyan}{\textsf{  New\}}}}\$
 
-[Delta](https://deltaexploits.net) -- ${{\color{green}{\textsf{  Safe\ And\ Trusted\}}}}\$
+[Delta](https://deltaexploits.net) -- ${{\color{red}{\textsf{  DELTA\ HAS\ BEEN\ SPOTTED\ AT\ STEALING\ ROBUX.\ USE\ AT\ YOUR\ OWN\ RISK!\}}}}\$
 
 [Hydrogen](https://hydrogen.sh) -- ${{\color{red}{\textsf{  MAY\ BE\ MALWARE!\ USE\ AT\ YOUR\ OWN\ RISK\}}}}\$
 
 [Codex](https://www.codex.lol) -- ${{\color{red}{\textsf{  MAY\ BE\ MALWARE!\ USE\ AT\ YOUR\ OWN\ RISK\}}}}\$
 
 [Delta Windows (PAID)](https://deltaexploits.mysellix.io) -- ${{\color{aqua}{\textsf{  NEW\ AND\ EXTERNAL!\}}}}\$
+
+### Upcoming
+Arceus X Windows (MAY BE MALWARE)
+
+**Status:**
+Only 2 videos currently (TBA)
+
+[Video 1](https://v.redd.it/7wvfppec6tic1/DASH_96.mp4)
+
+[Video 2](https://packaged-media.redd.it/o6rz846artic1/pb/m2-res_720p.mp4?m=DASHPlaylist.mpd&v=1&e=1708081200&s=57e15929cce6ce67acc9a3a2d9e748a9c3ff80dc#t=0)
+
+SysGuard (NOT AN EXECUTOR, ANTICHEAT BYPASS!)
+
+**Status:**
+Unknown (TBA)
 # Tutorial
 
 First of all, Download NCE itself in the [releases](https://github.com/IShade4Real/NetflixCE/releases) tab.
