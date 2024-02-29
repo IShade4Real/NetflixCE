@@ -51,4 +51,6 @@ Delta(?): Delta has been spotted at stealing robux REALLY often. For now, this i
 ### Do not exploit at the moment currently. There are a lot of honeypots, RATs, skids, and more.
 Share this github with people, including [robloxexploiting](https://www.reddit.com/r/ROBLOXExploiting/) and [robloxhackers](https://www.reddit.com/r/robloxhackers/) reddit. People should know about malwares and RATs.
 # New Page
-This page will be remade into WhatExploitsAreOnline after march 4th. Check it out right now! ([link](https://github.com/IShade4Real/WhatExploitsAreOnline)). It will also include general information AND much more. (Why releasing march 4th? Because im gonna do a huge update about the page, and i have to spend time making it. This includes my own life obviously. Exams are coming and i cant sit and watch roblox exploiting 24/7)
+This page will be remade into WhatExploitsAreOnline after march 4th. Check it out right now! ([link](https://github.com/IShade4Real/WhatExploitsAreOnline)). It will also include general information AND much more. 
+
+(Why releasing march 4th? Because im gonna do a huge update about the page, and i have to spend time making it. This includes my own life obviously. Exams are coming and i cant sit and watch roblox exploiting 24/7)
